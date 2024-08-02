@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://aksinghania.github.io/bytebuilders",
   "scripts": {
     "dev": "vite --hostls",
     "build": "vite build",
